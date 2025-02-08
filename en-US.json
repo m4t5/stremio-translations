@@ -858,7 +858,7 @@
 	"ERR_NO_SUPPORTERD_FILES": "No supported files found",
 	"ERR_OPENING_FILES" : "Could not open external files",
 	"ERR_INVALID_LINK": "Invalid link",
-	"ERR_REGISTERED_ONLY": "This option is available for registred users only.",
+	"ERR_REGISTERED_ONLY": "This option is available for registered users only.",
 	"ERR_CLIPBOARD": "Can not play from clipboard",
 	"ERR_CLIPBOARD_READ": "Can not read the clipboard on this platform",
 	"ERR_CLIPBOARD_GENERIC": "No playable URL found in the clipboard. Please copy a URL (e.g. a magnet link) to a video.",
